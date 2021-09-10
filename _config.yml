@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+name: Jianqing Ma, Awesome Dev
+markdown: kramdown
+permalink: /CS5520Project/:year/:month/:day/:title
