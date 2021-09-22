@@ -57,4 +57,5 @@ date: 2021-09-22
 1.	Pet owners have many things to do for their pets such as cutting their nail and apply dewormer. So, it’s easy for them to forget about it. 
 1.	Uber ap but for cargo use. People can call an Uber truck to deliver their heavy stuff.
 
-**Link to 3 detailed description of the problem:**
+Link to 3 detailed description of the problem: https://github.com/TommyMa99/CS5520Project/blob/gh-pages/_posts/2021-09-22-3-problem-specification.md
+##Link to 3 detailed description of the problem: [Heading link](https://github.com/TommyMa99/CS5520Project/blob/gh-pages/_posts/2021-09-22-3-problem-specification.md"link")
