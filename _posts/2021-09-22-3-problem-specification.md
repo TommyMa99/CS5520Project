@@ -7,7 +7,7 @@ date: 2021-09-22
 
 # **3 Problem Specification**:
 
-**Problem1: People who wants to prep healthy food using blender don’t know a variety of drinks they can make; and they don’t know which drink is best for their body condition.**
+### Problem1: People who wants to prep healthy food using blender don’t know a variety of drinks they can make; and they don’t know which drink is best for their body condition.
 
 ***persona and Scenario:*** A nutritionist give their patients a list of food to eat to reach a health goal. People who are health conscious also wants to live a healthy lifestyle. Using blender for prepping meal is getting more and more popular. It’s quicker, more delicious and maintained the most nutrition and beneficial aspects of fruits, vegetables, and oats. However, people don’t know much about what to blend in it and what to expect the taste to be. They don’t hire a nutritionist to plan the meal for them; Instead, these people must look online to find the recipe from fragments of information which is time consuming and there’s a high chance that they will stick with what they think is delicious. This app will introduce them to a variety of drinks or smoothies made by blender.  Based on the user’s need, the app will derive out a list of drinks they can make as well as the nutritional facts of each drink.
 
@@ -26,7 +26,7 @@ date: 2021-09-22
 •	*Information:* Their body condition such as what disease they have, their body fat percentage.
 
 
-**Problem2: Secondhand market for NEU students only as we can’t assure the quality of stuff sold elsewhere.**
+### Problem2: Secondhand market for NEU students only as we can’t assure the quality of stuff sold elsewhere.
 
 ***persona and Scenario:*** A newly admitted NEU Seattle students who just relocated from abroad to Seattle. He needs to buy a lot of furniture to fill up his apartment such as table and desktop screen. This group of people are unique because firstly, they are mostly international students who don’t know how to access a lot of resources such as Facebook marketplace; secondly, they need to make the purchase as soon as possible; thirdly, for those who knows resources like Facebook marketplace, they are not sure if the quality of the furniture is good or not; Fourthly, these people normally don’t have cars. And I can assume that other NEU students who’s selling the furniture either live close to them or have cars. Lastly, it’s common for graduated NEU Seattle students to sell their furniture when they relocate for work. These unique features of the users explain why this platform is better than other secondhand market platform. The quality of the products sold here is reliable as there are less hand turning rate and people trust their peers who they can see every day. The contexts that are important are firstly, NEU students graduate in less than 3 years and most of them relocate to other places and there’s a good chance that they will sell the furniture. Secondly, the furniture they sell matches the needs for those who purchase furniture. So, it’s easier to sell it for the seller and purchaser is guaranteed a good quality for the furniture they purchase.
 
@@ -45,7 +45,7 @@ date: 2021-09-22
 •	*Information:* the location of the buyer, the location of the seller, contact information
 
 
-**Problem3: People have the needs to store their items; Others have a lot of empty spaces in their property that is unused.**
+### Problem3: People have the needs to store their items; Others have a lot of empty spaces in their property that is unused.
 
 ***persona and Scenario:*** Company like public storage would solve the problem of storing items. Users of public storage rent a storage unit with an expensive price and their problem is solved. Here I can create a win-win situation with this app by connecting those who have items that need to be stored with those who have spare empty spaces in their property. This way, People who have empty spaces in their property can make good use of the spaces by privately renting it to others for monetary benefit. People who need to store their items rent a good storage unit with a much cheaper price compared to storage companies like Public Storage.
 
