@@ -26,8 +26,8 @@ Problem1: People who wants to prep healthy food using blender don’t know a var
 •	*Information:* Their body condition such as what disease they have, their body fat percentage.
 
 
-### Problem2: Secondhand market for NEU students only as we can’t assure the quality of stuff sold elsewhere.
-
+Problem2: Secondhand market for NEU students only as we can’t assure the quality of stuff sold elsewhere.
+-------------------------
 ***persona and Scenario:*** A newly admitted NEU Seattle students who just relocated from abroad to Seattle. He needs to buy a lot of furniture to fill up his apartment such as table and desktop screen. This group of people are unique because firstly, they are mostly international students who don’t know how to access a lot of resources such as Facebook marketplace; secondly, they need to make the purchase as soon as possible; thirdly, for those who knows resources like Facebook marketplace, they are not sure if the quality of the furniture is good or not; Fourthly, these people normally don’t have cars. And I can assume that other NEU students who’s selling the furniture either live close to them or have cars. Lastly, it’s common for graduated NEU Seattle students to sell their furniture when they relocate for work. These unique features of the users explain why this platform is better than other secondhand market platform. The quality of the products sold here is reliable as there are less hand turning rate and people trust their peers who they can see every day. The contexts that are important are firstly, NEU students graduate in less than 3 years and most of them relocate to other places and there’s a good chance that they will sell the furniture. Secondly, the furniture they sell matches the needs for those who purchase furniture. So, it’s easier to sell it for the seller and purchaser is guaranteed a good quality for the furniture they purchase.
 
 ***Trigger:*** From the purchaser’s end: they walk in an empty apartment and have nothing in the room to live with. From the seller’s view: Graduating or relocating push them to sell their furniture as soon as possible.
@@ -45,8 +45,8 @@ Problem1: People who wants to prep healthy food using blender don’t know a var
 •	*Information:* the location of the buyer, the location of the seller, contact information
 
 
-### Problem3: People have the needs to store their items; Others have a lot of empty spaces in their property that is unused.
-
+Problem3: People have the needs to store their items; Others have a lot of empty spaces in their property that is unused.
+-------------------------
 ***persona and Scenario:*** Company like public storage would solve the problem of storing items. Users of public storage rent a storage unit with an expensive price and their problem is solved. Here I can create a win-win situation with this app by connecting those who have items that need to be stored with those who have spare empty spaces in their property. This way, People who have empty spaces in their property can make good use of the spaces by privately renting it to others for monetary benefit. People who need to store their items rent a good storage unit with a much cheaper price compared to storage companies like Public Storage.
 
 ***Trigger:*** Users are looking for places to store their item. Users are looking for good use of their storage unit.
