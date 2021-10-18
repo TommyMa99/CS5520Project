@@ -13,7 +13,9 @@ I reconfigured everything that is not consistent with Google console's privacy p
 2 of my to-do-app. I'll keep update on the reviewing process here. I've also uploaded my to-do-app version 2 .apk/app bundle on github.**
 
 **Latest Updates!!!!!: Test for App available to join: 
+
 Join on Android: https://play.google.com/store/apps/details?id=edu.neu.khoury.madsea.majianqing
+
 Join on the Web: https://play.google.com/apps/testing/edu.neu.khoury.madsea.majianqing**
 
 ----------------------------------------------------------------------------------------------------
