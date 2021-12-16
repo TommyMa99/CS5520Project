@@ -1,8 +1,9 @@
 package edu.neu.khoury.madsea.majianqing
 
-interface UpdateandDelete{
+interface UpdateandDelete {
 
-    fun modifyItem(itemUID:String, isDone:Boolean)
-    fun onItemDelete(itemUID:String)
-    fun onItemEdit(itemUID: String)
+    fun modifyItem(item: TodoEntity)
+    fun onItemDelete(item: TodoEntity)
+    fun onItemEdit(item: TodoEntity)
+    fun onOptionsMenuClicked(position: Int, item: TodoEntity)
 }
