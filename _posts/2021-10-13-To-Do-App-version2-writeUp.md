@@ -30,3 +30,9 @@ Link for a brief demo of this App: [link](https://youtu.be/FLZE0s2Xv60)
 1. Constructed ViewModel which holds communication between UI components and the repository. Used Live data and observer to notify changes when data is updated, deleted , and inserted.
 1. Implemented Recycler view and a ListAdapter to populate the screen with todo item while holds the connection with viewModel.
 1. Replaced Firebase real-time database with SQL local database accessed from a Room database
+1. Implemented data and time picker with a calender and animated clock shown up which allows the user to set up reminder time in a easy and clear way.
+1. Created Notifiction channel and set the content of the notification to the to-do item description.
+1. Integrated work manager to schedule works to send out notification to the user at their specified reminder time for each task.
+1. Modifying reminder work from the worker queue in the work manager when user delete and edit to-do item.
+1. Used item description as the tag for the work which allows the user to cancel and edit ther to-do task without worrying about reminder mulfunctioning but with certain trade offs.
+1. User has to use the same item title when editting the to-do item, else the reminder for previous item would not be deleted.   
