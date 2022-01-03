@@ -15,8 +15,8 @@ Link for a brief demo of this App: [link](https://youtu.be/FLZE0s2Xv60)
 
 ----------------------------------------------------------------------------------------------------
 
-* **Link to the app-release.abb for To-Do_List_app**: [link](https://github.com/TommyMa99/TodoApp/blob/main/app-release.aab)
-* **Link to the app-release.apk for To-Do_List_app**: [link](https://github.com/TommyMa99/TodoApp/blob/main/app-release.apk)
+* **Link to code for To-Do_List_app**: [link](https://github.com/TommyMa99/TodoApp_Final_Version)
+* **Link to the app-release.apk for To-Do_List_app**: [link](https://github.com/TommyMa99/CS5520Project/blob/apkFile/app-release.apk)
 
 **Summarize**: 
 
