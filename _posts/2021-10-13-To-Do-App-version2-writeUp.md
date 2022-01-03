@@ -35,6 +35,17 @@ Link for a brief demo of this App: [link](https://youtu.be/FLZE0s2Xv60)
 1. Integrated work manager to schedule works to send out notification to the user at their specified reminder time for each task.
 1. Modifying reminder work from the worker queue in the work manager when user delete and edit to-do item.
 1. Used item description as the tag for the work which allows the user to cancel and edit ther to-do task without worrying about reminder mulfunctioning but with certain trade offs.
-1. User has to use the same item title when editting the to-do item, else the reminder for previous item would not be deleted.   
+1. User has to use the same item title when editting the to-do item, else the reminder for previous item would not be deleted.
+1. Implemented Search View which enables users to search for a todo-item in the search box using the title of the to-do item.
+1. Integrated option menu for each created to-do item where users can view, delete or edit items.
+1. Created safe delete functions for users when deleting an item to make sure the user doesn't click it by accident.  
 
 ![image](https://user-images.githubusercontent.com/90421186/147965938-eb5960f2-a2de-4a4f-ba3b-66dd9699c19a.png)
+
+![image](https://user-images.githubusercontent.com/90421186/147966061-ffc4bb74-446d-4447-9b0e-74ec87113e68.png)
+
+![image](https://user-images.githubusercontent.com/90421186/147966083-607ce1f8-4739-4af6-a787-162dd151b579.png)
+
+![image](https://user-images.githubusercontent.com/90421186/147966100-fc715dbc-f8bd-4a3a-9e2e-af4c4c80218a.png)
+
+![image](https://user-images.githubusercontent.com/90421186/147966132-c40dd5b5-efa8-476c-bbd6-c9a850146de7.png)
