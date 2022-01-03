@@ -36,3 +36,5 @@ Link for a brief demo of this App: [link](https://youtu.be/FLZE0s2Xv60)
 1. Modifying reminder work from the worker queue in the work manager when user delete and edit to-do item.
 1. Used item description as the tag for the work which allows the user to cancel and edit ther to-do task without worrying about reminder mulfunctioning but with certain trade offs.
 1. User has to use the same item title when editting the to-do item, else the reminder for previous item would not be deleted.   
+
+![image](https://user-images.githubusercontent.com/90421186/147965938-eb5960f2-a2de-4a4f-ba3b-66dd9699c19a.png)
